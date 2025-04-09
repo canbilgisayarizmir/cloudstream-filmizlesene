@@ -1,8 +1,17 @@
 {
-    "name": "Filmizlesene Repository",
+    "name": "Filmizlesene",
     "description": "Filmizlesene.de için Cloudstream eklentisi",
     "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/canbilgisayarizmir/cloudstream-filmizlesene/main/plugins.json"
+    "plugins": [
+        {
+            "status": 1,
+            "version": 1,
+            "name": "Filmizlesene",
+            "description": "Filmizlesene.de için Cloudstream eklentisi",
+            "authors": ["Cloudstream Kullanıcısı"],
+            "language": "tr",
+            "url": "https://raw.githubusercontent.com/canbilgisayarizmir/cloudstream-filmizlesene/main/filmizlesene.cs3",
+            "isNsfw": false
+        }
     ]
 } 
