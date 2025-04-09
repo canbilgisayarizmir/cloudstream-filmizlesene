@@ -1,0 +1,8 @@
+{
+    "name": "Filmizlesene Repository",
+    "description": "Filmizlesene.de için Cloudstream eklentisi",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/canbilgisayarizmir/cloudstream-filmizlesene/main/plugins.json"
+    ]
+} 
