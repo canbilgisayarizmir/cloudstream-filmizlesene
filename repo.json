@@ -10,7 +10,7 @@
             "description": "Filmizlesene.de için Cloudstream eklentisi",
             "authors": ["Cloudstream Kullanıcısı"],
             "language": "tr",
-            "url": "https://raw.githubusercontent.com/canbilgisayarizmir/cloudstream-filmizlesene/main/filmizlesene.cs3",
+            "url": "https://raw.githubusercontent.com/canbilgisayarizmir/cloudstream-filmizlesene/master/filmizlesene.cs3",
             "isNsfw": false
         }
     ]
